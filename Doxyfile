@@ -1,0 +1,25 @@
+# 1. Назва проєкту
+PROJECT_NAME           = "My C++ Project"
+
+# 2. Де шукати код (поточна папка)
+INPUT                  = .
+
+# 3. Шукати у підпапках? (Так)
+RECURSIVE              = YES
+
+# 4. Куди складати результат
+OUTPUT_DIRECTORY       = docs
+
+# 5. Генерувати HTML? (Так)
+GENERATE_HTML          = YES
+
+# 6. Генерувати LaTeX/PDF? (Зазвичай ні, якщо не треба для друку)
+GENERATE_LATEX         = NO
+
+# 7. Оптимізація під C++ (За замовчуванням вона й так увімкнена, але перевірте)
+OPTIMIZE_OUTPUT_FOR_C  = YES
+
+# 8. Чи документувати всі сутності (навіть приватні/статичні)?
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
