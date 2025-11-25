@@ -1,0 +1,5 @@
+<map id="Magazine" name="Magazine">
+<area shape="rect" id="Node000001" title="Клас для журналу." alt="" coords="10,79,95,104"/>
+<area shape="rect" id="Node000002" href="$classPublication.html" title="Базовий клас для публікацій (книги, журнали, електронні книги)." alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,44,55,79,50,79,50,44"/>
+</map>
